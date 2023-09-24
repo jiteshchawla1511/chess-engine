@@ -1,6 +1,6 @@
 # Chess Engine
 
-- The Chess Engine is a project that aims to create a fully functional chess engine in [programming language]. It's designed to provide a platform for playing chess against the computer and exploring various aspects of chess programming.
+- The Chess Engine is a project that aims to create a fully functional chess engine in Javascript. It's designed to provide a platform for playing chess against the computer and exploring various aspects of chess programming.
 
 ## Play Online
 
